@@ -1,5 +1,5 @@
 <p align="center">
-  <br><br><br><br>
+  <br>
   <samp>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><em> Hello!  I'm Learning to Become a Full Stack Developer <em>
     <br><br> Passionate developer, always looking for new Challenges  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
