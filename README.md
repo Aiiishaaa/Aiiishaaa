@@ -1,5 +1,4 @@
 <p align="center">
- <br><br>
   <samp> <br><br>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><em> Hello!  I'm Learning to Become a Full Stack Developer <em>
     <br> Passionate developer, always looking for new Challenges 
