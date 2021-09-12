@@ -1,5 +1,6 @@
 <p align="center">
   <samp> 
+    <br>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><em> Hello!  I'm a Full Stack Developer - Freelance <em>
     <br><br>Passionate developer, always looking for new Challenges 
      <br>I am creative, curious, "jack of all trades". 
